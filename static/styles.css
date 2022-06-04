@@ -325,6 +325,12 @@ Contact
 Footer
 *******/
 
+.fa-envelope:link {
+    color:black
+
+
+}
+
 .footer {
     background-color: var(--primary);
     text-align: center;
