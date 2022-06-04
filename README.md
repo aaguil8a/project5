@@ -21,4 +21,4 @@ Download req.txt:
 
 To run program:
 
-* Run python.py
+* Run python app.py
