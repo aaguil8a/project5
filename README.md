@@ -14,12 +14,6 @@ Here is the knowledge I gained from this project: I learned to use Python for we
 
 Once you download the repo:
 
-Create a virtual environment:
-
-* Mac: python3 -m venv env
-
-* Windows: python -m venv env
-
 
 Activate your environment:
 
