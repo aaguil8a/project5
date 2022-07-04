@@ -15,17 +15,16 @@ Here is the knowledge I gained from this project: I learned to use Python for we
 Once you download the repo:
 
 
-Download req.txt:
-
-* pip install -r requirements.txt
-
-
 Activate your environment:
 
 * Mac: source ./env/bin/activate
 
 * Windows: .\env\Scripts\activate
 
+
+Download req.txt:
+
+* pip install -r requirements.txt
 
 To run program:
 
